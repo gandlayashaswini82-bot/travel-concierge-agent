@@ -60,8 +60,11 @@ Future Improvements
 - Real-time weather integration
 - Transportation planning
 - Multi-agent architecture using ADK
+# live demo
+[https://ai.studio/apps/00ab2029-671e-4230-ad90-cf0e50e3e66b]
 
-Author
+
+# Author
 
 Gandla Yashaswini
 
