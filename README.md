@@ -61,7 +61,7 @@ Future Improvements
 - Transportation planning
 - Multi-agent architecture using ADK
 # live demo
-[https://ai.studio/apps/00ab2029-671e-4230-ad90-cf0e50e3e66b]
+[https://travel-concierge-agent-44609681905.asia-southeast1.run.app]
 
 
 # Author
